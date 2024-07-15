@@ -6,6 +6,6 @@ You also need to have Unreal Engine [Built from Source](https://dev.epicgames.co
 
 After you've obtained Docker, if you want to test it out, you can use [Edgegap's Speedtest Edge](https://docs.edgegap.com/docs/tools-and-integrations/container/docker) to kinda learn it. You really don't need to mess with it honestly and truly. You just need it downloaded and running whenever you are building your server which leads me into something else.
 
-# !> Don't stress yourself out.
+!> Don't stress yourself out!
 
 The folks over at Edgegap have done a really great job at building a Plugin for Unreal which does a lot of heavy lifting for you. It not only builds the game servers, it also pushes them out as a new application version for you to use. <u>You don't need to interact with Docker besides having it running while this process is running. Don't stress yourself out by worrying about what you need to do with it. You'll just give yourself a headache.</u> If you want to learn it feel free! But it's not needed.
