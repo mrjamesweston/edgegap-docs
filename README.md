@@ -9,4 +9,4 @@
 
 
 ## Ready to Dive in?
-[Getting Started](requirements)
+!> NOTE! This guide is not a how-to on how to do most things and assumes you have done the following: [Built the Unreal Engine from Source to support Dedicated Servers](https://dev.epicgames.com/documentation/en-us/unreal-engine/setting-up-dedicated-servers-in-unreal-engine), [Downloaded and Set-up Docker](https://docs.docker.com/guides/getting-started/), and have a C++ Project (either converted from Blueprints or Native) for Dedicated Servers.
