@@ -18,5 +18,8 @@ We can move on! The next thing we need after those is the [Edgegap Unreal Plugin
 
 # You need a C++ Project.
 
-No you don't have to write any code in C++, you can keep everything in Blueprints. But a C++ project is required to build the server.
+No you don't have to write any code in C++, you can keep everything in Blueprints. But a C++ project is required to build the server. If you're on Blueprints and need to add C++ class, go to the Tools Toolbar (in Unreal 5.X+) and just add a New C++ Class, doesn't even have to be named anything special. Just add it. You'll have to close the Editor and then Build the Project in Visual Studio for it to be updated.
 
+
+
+# [Done with those? Let's dive into the Engine](working-with-edgegap)
