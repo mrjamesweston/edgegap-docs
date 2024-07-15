@@ -1,4 +1,4 @@
 - [Home](README)
 
-  Getting Started
+ Getting Started
 - [Requirements](requirements)
