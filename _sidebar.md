@@ -1,4 +1,4 @@
 - [Home](README)
-  - [Requirements](requirements)
-    
-- [Example Second Page](second-page)
+
+Getting Started
+- [Requirements](requirements)
