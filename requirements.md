@@ -9,3 +9,14 @@ After you've obtained Docker, if you want to test it out, you can use [Edgegap's
 !> Don't stress yourself out!
 
 The folks over at Edgegap have done a really great job at building a Plugin for Unreal which does a lot of heavy lifting for you. It not only builds the game servers, it also pushes them out as a new application version for you to use. <u>You don't need to interact with Docker besides having it running while this process is running. Don't stress yourself out by worrying about what you need to do with it. You'll just give yourself a headache.</u> If you want to learn it feel free! But it's not needed.
+
+# Got those already
+
+We can move on! The next thing we need after those is the [Edgegap Unreal Plugin](https://github.com/edgegap/edgegap-unreal-plugin) depending on the version you'll have to just choose the one. If you're on Unreal Engine 5.4.X I recommend using [Betide Studio's updated version](https://github.com/deveshmishrabetide/edgegap-unreal-plugin) which fixes some issues. (Don't be like me, I ripped out things to brute force it to work.)
+
+!> This needs to go into your Project/Plugins not your Engine/Plugins folder! It displays an Editor Button and will not build if you place it in the Engine/Plugins.
+
+# You need a C++ Project.
+
+No you don't have to write any code in C++, you can keep everything in Blueprints. But a C++ project is required to build the server.
+
