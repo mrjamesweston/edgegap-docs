@@ -31,7 +31,7 @@ While on the Map, select the Edgegap Plugin Widget in the Toolbar and then click
 
 We'll need an API Token from Edgegap and this can happen one of two-ways, either going to the [Dashboard and retrieving it](https://app.edgegap.com/user-settings?tab=tokens) or clicking on the <b>Get a Token</b> Button. That takes you to the Dashboard and Generates a new One-Click Token in the same click.
 
-> If doing it manually on the Dashboard, when creating an API Token, ensure you are clicking on the <b>"is Quick Start"</b> checkbox after you make the label. This marks it as a Token that <b>CAN</b> be used in the Settings.
+?> If doing it manually on the Dashboard, when creating an API Token, ensure you are clicking on the <b>"is Quick Start"</b> checkbox after you make the label. This marks it as a Token that <b>CAN</b> be used in the Settings.
 
 
 Copy the Token and then paste it into the Text Box and press ENTER to ensure it gets pushed through. After that, the Verify Button should light-up and then you can click and see if it verifies the token. If you receive an error, you have not done something right and should try to regenerate the token.
@@ -39,3 +39,12 @@ Copy the Token and then paste it into the Text Box and press ENTER to ensure it 
 # Creating the App actually
 
 Enter the Application Name you want! No Spaces! You'll also need an app image, I recommend a size of 256x256. After you've done that, click create and then it should be good to go now! 
+
+![creating-app](https://i.imgur.com/llKohv9.png)
+
+# Adding AppName in EdgegapInstance
+
+
+Back in our EdgegapInstance we can go to our AppName variable and add in our App name that we just filled out in the previous step! In my Example it is <b>"Learner"</b>.
+
+![appnamevariable](https://i.imgur.com/R2oBJZc.png)
