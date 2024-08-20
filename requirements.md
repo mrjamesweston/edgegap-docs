@@ -16,10 +16,11 @@ We can move on! The next thing we need after those is the [Edgegap Unreal Plugin
 
 !> This needs to go into your Project/Plugins not your Engine/Plugins folder! It displays an Editor Button and will not build if you place it in the Engine/Plugins.
 
-# You need a C++ Project.
+# You need a C++ Project or Mixed Project.
 
-No you don't have to write any code in C++, you can keep everything in Blueprints. But a C++ project is required to build the server. If you're on Blueprints and need to add C++ class, go to the Tools Toolbar (in Unreal 5.X+) and just add a New C++ Class, doesn't even have to be named anything special. Just add it. You'll have to close the Editor and then Build the Project in Visual Studio for it to be updated.
+No you don't have to write any code in C++, you can keep everything in Blueprints. But a C++ Class is required to build the server which then makes it a Mixed Project. If you're on Blueprints and need to add C++ class, go to the Tools Toolbar (in Unreal 5.X+) and just add a New C++ Class, doesn't even have to be named anything special. Just add it. You'll have to close the Editor and then Build the Project in Visual Studio for it to be updated.
 
+![toolbar location](https://i.imgur.com/X0piA4A.png)
 
 
 # [Done with those? Let's dive into the Engine](working-with-edgegap)
