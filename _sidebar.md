@@ -5,3 +5,4 @@
 
  Edgegap
 - [Working With Edgegap](working-with-edgegap)
+- [Known Errors with Fixes](known-errors)
